@@ -1,11 +1,14 @@
 
-
 ## 📂 Google Drive Clone
 
 A Google Drive-like cloud storage application built using ReactJS and Firebase, enabling users to upload, manage, and organize files efficiently. This project provides a seamless file management experience with authentication, real-time storage, and an intuitive UI.
 
+---
+
 
 👉 **Live Demo**: [Google Drive Clone MERN](https://google-drive-clone-manaswini-sasmals-projects.vercel.app/)
+
+---
 
 
 ## 🚀 Features
@@ -17,6 +20,8 @@ A Google Drive-like cloud storage application built using ReactJS and Firebase, 
 ✅ Folder Organization – Create folders and manage files efficiently
 
 ✅ Real-time Updates – Instant UI updates for new uploads and modifications
+
+---
 
 
 ## 🛠️ Tech Stack
@@ -33,9 +38,27 @@ File Storage:
 Firebase Storage (Default)
 Cloudinary (Optional for external file hosting)
 
+---
+
 
 ## 📸 Screenshots
 
 ![github screen shot](https://github.com/user-attachments/assets/87733455-e236-4b5f-bf9d-4034a7e7a78e)
+
+---
+
+🙋‍♀️ Author
+
+## Manaswini Sasmal
+
+👩‍💻 Frontend Developer | React Enthusiast
+
+🔗 Portfolio -- https://manaswini-portfolio.vercel.app/
+
+📧 manaswinisasamal559@gmail.com
+
+🔗 LinkedIn - https://www.linkedin.com/in/manaswini-sasmal-b77a21162/
+
+🔗 GitHub - https://github.com/Monisasmal
 
 
