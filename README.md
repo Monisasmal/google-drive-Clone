@@ -55,7 +55,7 @@ Cloudinary (Optional for external file hosting)
 
 🔗 Portfolio -- https://manaswini-portfolio.vercel.app/
 
-📧 manaswinisasamal559@gmail.com
+📧 manaswinisasamal5597@gmail.com
 
 🔗 LinkedIn - https://www.linkedin.com/in/manaswini-sasmal-b77a21162/
 
